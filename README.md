@@ -1,3 +1,3 @@
-# Java Codes
+# Bank Management System
 
-Java programming language
+A banking managent system in Java.
